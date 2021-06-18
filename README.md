@@ -1,2 +1,2 @@
 # Logica-Programacao-II-Alura
-  Arquivos criados durante o curso Lógica de Programação II da Alura. 
+  Atividades criadas em aulas e exercícios do curso, utilizando javascript e html.
